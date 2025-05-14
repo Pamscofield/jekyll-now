@@ -3,10 +3,17 @@
 #
 
 # Name of your site (displayed in the header)
-name: PAN Xiaoqing
+name: PAN Xiaoqing 潘晓清
 
 # Short bio or description (displayed in the header)
-description: 潘晓清
+description: 
+
+” We choose to do this not because it is easy, but because it is hard “
+
+I am a PhD student at Hans Knoell Institute in Jena, Germany. My interests spans from filamentous fungi to humans. I’m curious about human-fungal interactions – countless questions that one could ask: How does RNA work? How does host RNA change during fungal infections? How does fungal RNA change?
+
+Biology can also be applied: I study pathogenic fungi for the development of RNA-based theraputics to cure fungal infections.
+
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
